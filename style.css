@@ -1,0 +1,94 @@
+
+
+h2{
+	text-align: center;
+	background: #D9C633;
+
+}
+
+.forme{
+	float:left;
+	width: 200px;
+	text-align:justify;
+	padding :20px;
+	border: 1px solid ;
+	border-radius: 8px;
+	background:black;
+	color: white; 
+	margin-right : 2px;
+	margin-left : 25px;
+}
+
+h1{
+	background-image: linear-gradient(to right, #bfa0cb, #ed97bb, #ff9691, #ffa85c, #d9c633);
+	padding:30px;
+	text-align: center; 
+
+
+}
+
+.couleurs{
+	float: left;
+}
+
+.taille{
+	float: left;
+}
+
+.fermeture{
+	float:left;
+	width: 200px;
+	text-align:justify;
+	padding :20px;
+	border: 1px solid ;
+	border-radius: 8px;
+	background:black;
+	color: white; 
+	margin-right : 2px;
+	margin-left : 25px;
+}
+
+.prix{
+	float:left;
+}
+
+.contact{
+	float:left;
+}
+
+h3{
+	background: #BFA0CB;
+}
+
+.image{
+	float:left;
+	width: 300px;
+	text-align:justify;
+	padding :20px;
+	border: 1px solid ;
+	border-radius: 8px;
+	margin-right : 2px;
+	margin-left : 25px;
+
+}
+
+.F{
+float:left; 
+}
+
+.bouton1 {
+padding: 10px 30px;
+background: #FC7F3C;
+color: #000000;
+-webkit-border-radius: 11px;
+-moz-border-radius: 11px;
+border-radius: 11px;
+border: 2px solid #46a28d;
+float:left;
+}
+
+.bouton1:hover {
+background: #34393E;
+color: #5EB6DD;
+float:left;
+}
